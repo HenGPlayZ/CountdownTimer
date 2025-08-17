@@ -13,7 +13,8 @@ A beautiful, animated countdown timer web application built with Next.js 15, Rea
 - **TypeScript support** - Fully typed for better development experience
 - **Tailwind CSS** - Utility-first CSS framework for rapid styling
 
-## 🚀 Demo - [countdown-timer-hzn.vercel.app](https://countdown-timer-hzn.vercel.app)
+## 🚀 Demo 
+- [countdown-timer-hzn.vercel.app](https://countdown-timer-hzn.vercel.app)
 
 ![Countdown Timer Preview](public/screenshot.png)
 

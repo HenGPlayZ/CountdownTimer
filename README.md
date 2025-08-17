@@ -15,7 +15,7 @@ A beautiful, animated countdown timer web application built with Next.js 15, Rea
 
 ## 🚀 Demo
 
-![Countdown Timer Preview](screenshot.png) <!-- Add a screenshot of your app -->
+![Countdown Timer Preview](public/screenshot.png)
 
 ## 🛠️ Tech Stack
 
